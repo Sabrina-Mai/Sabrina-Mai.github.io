@@ -4,6 +4,10 @@ html {
     font-weight: 300;
 }
 
+body {
+    background-color: beige; /* Added background color */
+}
+
 a {
     text-decoration: none;
     color: #1565c0;
