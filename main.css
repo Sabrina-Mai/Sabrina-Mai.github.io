@@ -1,5 +1,5 @@
 html {
-    font-family: 'Poppins', sans-serif;
+     font-family: 'Source Sans Pro', sans-serif;
     font-size: larger;
     font-weight: 300;
 }
@@ -49,7 +49,7 @@ a:hover {
 }
 
 .icons a {
-    color: black;
+    color: blue;
 }
 
 .icons a:hover {
