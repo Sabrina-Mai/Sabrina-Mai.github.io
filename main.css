@@ -5,7 +5,7 @@ html {
 }
 
 body {
-    background-color: beige; /* Added background color */
+    background-color: grey; /* Added background color */
 }
 
 a {
@@ -53,7 +53,7 @@ a:hover {
 }
 
 .icons a {
-    color: blue;
+    color: black;
 }
 
 .icons a:hover {
